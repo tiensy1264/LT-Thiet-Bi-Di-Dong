@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidBasis2</string>
+    <string name="go_button_title">Go To Examle 1 Activity</string>
+    <string name="go_button2_title">Go To Example2 Activity</string>
+    <string name="go_button3_title">Go To Example3 Activity</string>
+    <string name="go_button4_title">Go To Example4 Activity</string>
+    <string name="go_button5_title">Go To Example5 Activity</string>
+</resources>
